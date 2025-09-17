@@ -25,7 +25,7 @@ Privacy Policy
 </head>
 <body>
   <h1>Privacy Policy for Skygirl</h1>
-  <p><strong>Effective Date:</strong> [Insert Date]</p>
+  <p><strong>Effective Date:</strong> 17/09/2025 </p>
 
   <p>Skygirl ("we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App").</p>
 
