@@ -5,23 +5,7 @@ Privacy Policy
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Privacy Policy - Skygirl</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-      line-height: 1.6;
-      color: #222;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    hr {
-      margin: 30px 0;
-    }
-  </style>
+  
 </head>
 <body>
   <h1>Privacy Policy for Skygirl</h1>
