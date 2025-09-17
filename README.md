@@ -112,10 +112,6 @@ Privacy Policy
   <h2>7. Changes to This Privacy Policy</h2>
   <p>We may update this Privacy Policy from time to time. Changes will be posted within the app and/or on our website with a revised “Effective Date.”</p>
 
-  <hr>
-
-  <h2>8. Contact Us</h2>
-  <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
-  <p><strong>Email:</strong> [Your email address here]</p>
+  
 </body>
 </html>
